@@ -1,0 +1,15 @@
+{
+    "@@locale": "uk",
+    "welcome": "Вітаю!\nТут ви можете переглянути курс валют",
+    "clickHere": "Тицяй сюди",
+    "noInternetConnection": "Немає інтернет зʼєднання",
+    "serverErrorMessage": "Помилка серверу",
+    "currentRateRate": "Курс на поточну дату",
+    "settings": "Налаштування",
+    "selectLanguage": "Виберіть мову",
+    "currentLanguage": "Українська",
+    "language": "Мова",
+    "theme": "Тема",
+    "light": "Світла",
+    "dark": "Темна"
+}

@@ -1,0 +1,15 @@
+{
+    "@@locale": "en",
+    "welcome": "Welcome!\nHere you can check exchange rate",
+    "clickHere": "Click Here",
+    "noInternetConnection": "No Internet Connection",
+    "serverErrorMessage": "Server Error",
+    "currentRateRate": "Current date rate",
+    "settings": "Settings",
+    "selectLanguage": "Select Language",
+    "currentLanguage": "English",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark"
+}
